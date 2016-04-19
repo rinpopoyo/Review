@@ -17,6 +17,9 @@ gem 'sass-rails', '>= 3.2'
 gem 'devise'
 gem 'toastr-rails'
 
+gem 'omniauth'
+gem 'omniauth-facebook'
+
 group :development, :test do
   gem 'byebug'
 end
